@@ -12,7 +12,7 @@ made:
 
 * Allows you to read the font
 * Makes the font feel right to you
-* Makes the font useful for the the jobs you want the font to be able to do.
+* Makes the font useful for the jobs you want the font to be able to do.
 
 As you test the design, you will have to trust your perceptions and design somewhat practically.
 Much of type design requires that you make letters similar and that you repeat forms.
